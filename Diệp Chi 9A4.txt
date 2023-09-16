@@ -1,0 +1,68 @@
+<html>
+<head>
+<title> Giới thiệu bản thân </title>
+<style> 
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: glaucous;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</head>
+<style>
+body {
+          background-image: url("https://i.pinimg.com/originals/58/69/d6/5869d65fce581f894d44dcf2807332ef.jpg"); 
+}
+</style>
+<div style="background-color:white;color:#ADD8E6;padding:20px;">
+<font size="80" face="Vendetta">
+<h1 style="text-align:center;">Đậu Nguyễn Diệp Chi 19062009</font></h1>
+</div>
+<hr>
+<img src="https://lastfm.freetls.fastly.net/i/u/ar0/a662b22aea268dcf798a26d4ebdf6c26.jpg" width="563" height="563" align="right"/> 
+<div style="background-color:white;color:#ADD8E6;padding:20px;">
+      <h2> <font size="50" face="Garamond"> Về mình </font> </h2>
+      <ul>
+      <li> <b>Mình học lớp 9A4</b>
+      <li> <b>Môn học yêu thích: Tiếng Anh, Tin học, Ngữ Văn</b>
+      <li> <b>Ngôi trường muốn vào: Trần Phú Chuyên :)</b>
+      <li> <b>Thần tượng: TAYLOR SWIFT<333</b>
+      <li> <b>Rất đề cử nghe album Folklore, Midnights, Evermore và 1989 của Taylor hihi:))))</b>
+      <li> <b>Mục tiêu: Vào được Chuyên Anh Trần Phú và mua được cái ipad</b>
+     </ul>
+</div>
+<hr>
+<div style="background-color:white;color:#ADD8E6;padding:20px;">
+<h2> <font size="50" face="Garamond"> Nền tảng mình dùng </font></h2>
+<ul>
+<li><p><a href="https://www.facebook.com/uwu.chii.3/"><img src="https://vi.wizcase.com/wp-content/uploads/2022/05/Facebook-Logo.png" alt="https://www.facebook.com/uwu.chii.3/" style="width:30px;height:30px;"> Facebook</a></p>
+<li><p><a href="https://open.spotify.com/playlist/2VEtUoL3d6ALNyVA8EguUO"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" alt="https://open.spotify.com/playlist/2VEtUoL3d6ALNyVA8EguUO" style="width:30px;height:30px;"> Spotify </a></p>
+<li><p><a href="https://www.instagram.com/daylachiiii/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/daylachiiii/" style="width:30px;height:30px;"> Instagram </a></p>
+</div>
+<hr>
+<div style="background-color:transparent;color:#ADD8E6;padding:10px;">
+<font color="white" size="55" face="Vendetta">
+<p style="text-align:center;"><i><q>Hard things will happen to us. We will recover, we will learn from it, we will grow more resilient because of it. And as long as we are fortunate enough to be breathing, we will breathe in, breathe through, breathe deep, and breathe out. And I am a doctor now, so I know how breathing works.</q></i></font></p>
+<font color="#6082B6" size="55" face="Vendetta">
+<p style="text-align:center;"><b><i> - Taylor Swift </b></i></font></p>
+</div>
+  <audio controls autoplay>
+        <source src=""C:\Users\Asrock\Downloads\y2meta.com - Taylor Swift - Snow On The Beach (Lyric Video) ft. Lana Del Rey (128 kbps).mp3"" type="audio/mpeg">
+    </audio>
+</body>
+</html>
